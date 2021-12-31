@@ -16,7 +16,7 @@ public class XUrlImpl implements XUrl {
 	private Random random;
 	private int keyLength;
 
-	XUrlImpl() {
+	public XUrlImpl() {
 		keyMap = new HashMap<String, String>();
         valueMap = new HashMap<String, String>();
         countMap = new HashMap<String, Integer>();
