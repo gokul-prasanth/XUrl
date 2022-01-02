@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import com.xurl.service.XUrl;
 import com.xurl.service.XUrlImpl;
 
-class XUrlTests {
+class XUrlTests {    
 
 	@Test
 	void test() {
